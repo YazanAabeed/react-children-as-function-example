@@ -1,0 +1,22 @@
+{
+  "name": "children-as-function",
+  "version": "1.0.0",
+  "description":
+    "Learn how to share some values from parent component using the children as function concept on ReactJS",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4wllqwr179",
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.6.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
